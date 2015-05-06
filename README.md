@@ -1,13 +1,12 @@
 # <tt>node-firefox</tt> Content Kit
 
-> Current as of April 2015
+> Current as of May 2015
 
 ## Introduction
 
-* <tt>node-firefox</tt> is a series of node.js modules for interacting with Firefox runtimes via the Developer Tools remote debugging protocol
-* It is available as separate modules in npm and in their respective repositories. 
-* Started out as [node-fxos](https://github.com/nicola/node-fxos), a prototype developed by Nicola Greco when he was interning at Mozilla in Summer 2014
-* First public iteration as `node-firefox` presented at FOSDEM, February 2015, by Soledad Penadés who mentored Nicola, and then took over the project once he finished his internship
+* <tt>MozNFC</tt> is the top level API for operating in NFC Reader/Writer mode, NFC P2P mode and NFC Card Emulation mode.
+* Technology level: Non-standard, This feature is not on a current W3C standards track, but it is supported on the Firefox OS platform. Although implementations may change in the future and it is not supported widely across browsers, it is suitable for use in code dedicated to Firefox OS apps. 
+* For any issues, submit issues against [ https://github.com/CodingFree/NFC-content-kit](https://github.com/CodingFree/NFC-content-kit).
 
 ## Key Points
 
